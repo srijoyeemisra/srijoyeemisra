@@ -6,21 +6,24 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  pacman:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Pacman graph
-        uses: Platane/snk@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Pacman SVGs
+        uses: platane/snk@v3
         with:
           github_user_name: srijoyeemisra
           outputs: |
             output/pacman-contribution-graph.svg
             output/pacman-contribution-graph-dark.svg
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Commit and Push
+        uses: EndBug/add-and-commit@v9
         with:
-          target_branch: output
-          build_dir: output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          author_name: "GitHub Actions"
+          author_email: "actions@github.com"
+          message: "Update Pacman contribution graph"
+          add: "output/*"
