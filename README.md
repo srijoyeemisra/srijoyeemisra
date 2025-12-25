@@ -26,10 +26,41 @@
 ---
 
 ## 📌 Featured Projects
-- 🩺 **MediLink** – Smart healthcare website with emergency-focused UI  
-- 🌾 **KrishiScan** – Smart agriculture solution using web tech & sensors  
-- 🤖 **Smart Medicine Dispenser** – Elderly-care focused hardware + software  
-- 🚗 **Smart Road Sensor System** – Embedded system with intelligent response  
+- 🩺 **MediLink** – Smart healthcare website with an emergency-focused UI  
+- 🌾 **KrishiScan** – Smart agriculture solution using web technologies & sensors  
+- 🤖 **Smart Medicine Dispenser** – Elderly-care focused hardware + software system  
+- 🚗 **Smart Road Sensor System** – Embedded system with intelligent real-time response  
+
+---
+
+## 🛠️ What I’m Actively Working On
+- 🚀 Improving **MediLink** with better UX, responsiveness & real-world use cases  
+- 🌱 Enhancing **KrishiScan** for data-driven and sustainable farming  
+- 🧠 Strengthening **DSA & Core CS subjects** (OS, DBMS, CN) for GATE 2028  
+- 💻 Practicing **Java, Python & Web Development** through hands-on projects  
+- 🧪 Turning ideas into practical, impactful solutions  
+
+---
+
+## 📈 How I Stay Consistent
+- ✍️ Code or learn **something every day**
+- 🔁 Improve existing projects before starting new ones
+- 📚 Balance **college academics, GATE prep & development**
+- 🧩 Focus on **strong fundamentals**
+- 🚀 Believe in consistency over short-term motivation
+
+---
+
+## 💻 Languages & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+</p>
 
 ---
 
@@ -62,35 +93,6 @@
 
 ---
 
-## 💻 Languages & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-</p>
-
----
-
-## ⚡ GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srijoyeemisra&show_icons=true&theme=radical&hide_border=true"/>
+  💜 *Learning. Building. Improving — one step at a time.*
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srijoyeemisra&theme=radical&hide_border=true"/>
-</p>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/srijoyeemisra/srijoyeemisra/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/srijoyeemisra/srijoyeemisra/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/srijoyeemisra/srijoyeemisra/output/pacman-contribution-graph.svg">
-</picture>
